@@ -12,6 +12,11 @@ Integration Tests
 Automation Tests   
     Ui Tests
     testing real life scenerios
+        nightwatch
+        webdriver io 
+        testcafe
+        nightmare.js - great for web scrapping
+        cypress
 
 
 
@@ -49,5 +54,15 @@ Jest
 Istanbul
 
 
+OVERVIEW
 
-    
+    Production 
+        App.js 
+
+    Development
+        App.test.js
+        Write tests (while jest is running in the background)
+                    Read the tests
+                    Run the tests
+                    See which tests pass/fail
+                    Output a code coverage
