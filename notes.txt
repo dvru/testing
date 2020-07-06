@@ -1,0 +1,53 @@
+3 main types of Tests:
+
+Unit Tests  
+    most common
+    easy to implement
+    test individual functions or classes
+    cheapest and easiest to implement
+
+Integration Tests   
+    testing how different pieces of code work together
+    
+Automation Tests   
+    Ui Tests
+    testing real life scenerios
+
+
+
+Scafolding
+    npm libraries to build your scafolding
+Jasmine
+Jest
+Mocha
+
+Assertion library 
+Jasmine
+Jest
+Chai
+
+Test Runners    
+    npm run test
+    Runs the tests
+Jasmine
+Jest
+Mocha
+Karma.js - allows you to run tests in the browser
+
+Mocks, Spies and Stubs - 
+    mocks is to test different parts of a procoss
+    spies provides info, 
+    stubbing replaces selected functions with a function, 
+Jasmine
+Jest
+Sinon.js
+
+Code Coverage
+    npm test -- --coverage
+Istanbul
+Jest
+Istanbul
+
+
+
+    
