@@ -68,4 +68,7 @@ OVERVIEW
                     Output a code coverage
 
 
-
+Snapshot Testing.
+using .ToMatchSnapshot()
+Jest creates a snapshot folder, meaning it takes a picture of the component and stores it in that folder
+A snapshot is writen, and passed within the tests.
